@@ -8,5 +8,6 @@ example command:
 </br>
 ```python3 dorker.py -k API-Key -c ID -d 'inurl:vulnerability disclosure'```
 </br>
+<img src="http://meentest.net/dorker2.gif"></br>
 and you can set more dorks in a command
 For each round, 30 results are displayed, which are divided into groups of ten
