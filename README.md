@@ -1,7 +1,7 @@
-<img src="http://meentest.net/meentest.png"></br></br>
+<img style="max-width: 300px; max-height: 300px;" src="http://meentest.net/meentest.png"></br></br>
 This tool will help you to search your dorks without the limitations of Google
 You can also use the tools and tools related to finding targets for bug bunty in a private way.
-To get Google API and Google Search Engine:
+To get Google API and Google Search Engine:</br>
 https://developers.google.com/custom-search
 Use -h to see how to use the utility.
 example command:
