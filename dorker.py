@@ -6,7 +6,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 import os
 
-os.system("figlet meentestdorker ")
+os.system("figlet Mrpentstdorker ")
 
 def extract_domains(links):
     domains = []
